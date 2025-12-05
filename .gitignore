@@ -1,7 +1,10 @@
-*/__pycache__/*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 .venv/*
 */node_modules/*
-# server/data/conf/json/general/*.json
+server/data/conf/json/general/*.json
 server/data/conf/json/skill/*.json
 server/data/data/*
 # server/resources/skin/general/*
