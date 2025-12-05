@@ -1,7 +1,7 @@
 */__pycache__/*
 .venv/*
 */node_modules/*
-server/data/conf/json/general/general.json
+# server/data/conf/json/general/*.json
 server/data/conf/json/skill/*.json
 server/data/data/*
 # server/resources/skin/general/*
